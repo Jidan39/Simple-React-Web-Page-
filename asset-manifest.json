@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simplereactweb.github.io%20/static/css/main.02f0a472.css",
+    "main.js": "/simplereactweb.github.io%20/static/js/main.402da297.js",
+    "static/media/back.png": "/simplereactweb.github.io%20/static/media/back.15dbb2d3d9e2910b55f9.png",
+    "index.html": "/simplereactweb.github.io%20/index.html",
+    "main.02f0a472.css.map": "/simplereactweb.github.io%20/static/css/main.02f0a472.css.map",
+    "main.402da297.js.map": "/simplereactweb.github.io%20/static/js/main.402da297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f0a472.css",
+    "static/js/main.402da297.js"
+  ]
+}
